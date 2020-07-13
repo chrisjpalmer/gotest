@@ -1,3 +1,3 @@
-module github.com/chrisjpalmer/gotest/v2
+module github.com/chrisjpalmer/gotest
 
 go 1.12
